@@ -1,3 +1,4 @@
+```
 #importing from excel
 library(readxl)
 
@@ -24,3 +25,4 @@ write.xlsx(**Variable_name_binding**, "file_name.xlsx", sheetName="Sheet1", col.
 
 #to view thw file
 View(file_name)
+```
